@@ -29,3 +29,4 @@ TBA
 * 100 Things Every Designer Needs to Know About People (Voices that Matter)
 * The UX Book: Process and Guidelines for ensuring a Quality User Experience
 * Simple and Usable: Web, Mobile, and Interaction Design
+* Designing Multi-Device Experiences: An Ecosystem Approach to User Experiences across Devices 
