@@ -25,3 +25,8 @@ TBA
 * Exceptional Ruby
 * Clean Code
 * Coders at Work
+* Smashing UX Design: Foundations for Designing Online User Experiences
+* Mobile Usability
+* 100 Things Every Designer Needs to Know About People (Voices that Matter)
+* The UX Book: Process and Guidelines for ensuring a Quality User Experience
+* Simple and Usable: Web, Mobile, and Interaction Design
